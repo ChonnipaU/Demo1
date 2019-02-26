@@ -42,7 +42,7 @@ console.log(tokens);
 
 
 
-/*----------แบบนี้ผิด ทำให้โปรแกรมทำงานหนักกว่าเดิม--------------
+/*----------แบบนี้ทำให้โปรแกรมทำงานหนักกว่าเดิม--------------
 var chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
 function generateToken(n) { //parameter n
     var tokens = '';
